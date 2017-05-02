@@ -1,5 +1,5 @@
 {
-  "name": "steal-qunit",
+  "name": "steal-qunit2",
   "version": "1.1.0-beta.1",
   "description": "A bower package for QUnit and StealJS",
   "main": "steal-qunit",
